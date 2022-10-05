@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🇰🇷%20Sangwoo%20Lee%20🇰🇷&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=140&section=header&text=🇰🇷%20Sangwoo%20Lee%20🇰🇷&fontSize=70)
 
 <p align="center">
 <a href="https://wakatime.com/@5c1afe64-ab84-4e81-9e29-073a6f822c3c"><img src="https://wakatime.com/badge/user/5c1afe64-ab84-4e81-9e29-073a6f822c3c.svg" alt="Total time coded since Oct 5 2022" /></a>
