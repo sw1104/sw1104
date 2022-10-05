@@ -37,10 +37,10 @@
 <br>
 
 <a href="https://github.com/sw1104">
-  <img height="180em" align="left" src="https://github-readme-stats-lac-beta.vercel.app/api?username=sw1104&show_icons=true&theme=highcontrast" />
+  <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api?username=sw1104&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/sw1104">
-  <img height="180em" align="right" src="https://github-readme-stats-lac-beta.vercel.app/api/top-langs/?username=sw1104&layout=compact&theme=highcontrast" />
+  <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api/top-langs/?username=sw1104&layout=compact&theme=highcontrast" />
 </a>
 
 
