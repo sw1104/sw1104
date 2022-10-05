@@ -44,8 +44,6 @@
   <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api/top-langs/?username=sw1104&layout=compact&theme=highcontrast" />
 </a>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <!--
 **sw1104/sw1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
