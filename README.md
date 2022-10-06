@@ -60,6 +60,17 @@ Sunday       65 commits     █████░░░░░░░░░░░░�
 
 <br>
 
+<p align="center">
+<a href="https://solved.ac/sangw1104">
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=sangw1104">
+</a>
+<a href="https://solved.ac/sangw1104">
+<img src="http://mazandi.herokuapp.com/api?handle=sangw1104&theme=dark"/>
+</a>
+</p>
+
+<br>
+
 <a href="https://github.com/sw1104">
   <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api?username=sw1104&show_icons=true&theme=highcontrast" />
 </a>
