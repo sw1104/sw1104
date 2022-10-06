@@ -60,8 +60,8 @@ Sunday       65 commits     █████░░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://solved.ac/sangw1104">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj==sangw1104">
-  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sangw1104">
+  </a>  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
   <a href="https://solved.ac/sangw1104">
     <img src="http://mazandi.herokuapp.com/api?handle=sangw1104&theme=dark"/>
   </a>
