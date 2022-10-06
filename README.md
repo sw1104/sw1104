@@ -13,12 +13,12 @@
   <a href="https://sw1104.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-E77918?style=flat-square&logo=GitHub&logoColor=white&link=https://sw1104.github.io"/></a>&nbsp
   <a href="mailto:sangw1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sangw1104@gmail.com"/></a>
 </p>
-
+<img align="right" width=500 src=./profile-3d-contrib/profile-night-rainbow.svg />
 <br>
 
 <h3 align="center"> 🚀 SKILL 🚀 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>&nbsp 
@@ -51,7 +51,9 @@
   <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api/top-langs/?username=sw1104&layout=compact&theme=highcontrast" />
 </a>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+
 
 <!--
 **sw1104/sw1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
