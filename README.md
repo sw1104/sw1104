@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=140&section=header&text=🇰🇷%20Sangwoo%20Lee%20🇰🇷&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=130&section=header&text=🇰🇷%20Sangwoo%20Lee%20🇰🇷&fontSize=60)
 
 <br>
 
