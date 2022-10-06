@@ -6,16 +6,14 @@
   <a href="mailto:sangw1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sangw1104@gmail.com"/></a>&nbsp
   <a href="https://wakatime.com/@5c1afe64-ab84-4e81-9e29-073a6f822c3c"><img src="https://wakatime.com/badge/user/5c1afe64-ab84-4e81-9e29-073a6f822c3c.svg" alt="Total time coded since Oct 5 2022" /></a>&nbsp
 </p>
-<br>
 
-<img align="left" width=450 src=./profile-3d-contrib/profile-night-rainbow.svg />
+****
 
-<br>
-<br>
-
-<h3 align="center"> ⚡ SKILL ⚡ </h3>
+<img align="left" width=500 src=./profile-3d-contrib/profile-night-rainbow.svg />
 
 <br>
+
+<h2 align="center"> ⚡ SKILL ⚡ </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -29,10 +27,14 @@
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+****
+
 <br>
 <br>
 
