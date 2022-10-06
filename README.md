@@ -7,10 +7,15 @@
   <a href="https://wakatime.com/@5c1afe64-ab84-4e81-9e29-073a6f822c3c"><img src="https://wakatime.com/badge/user/5c1afe64-ab84-4e81-9e29-073a6f822c3c.svg" alt="Total time coded since Oct 5 2022" /></a>&nbsp
 </p>
 <br>
-<img align="left" width=400 src=./profile-3d-contrib/profile-night-rainbow.svg />
 
+<img align="left" width=450 src=./profile-3d-contrib/profile-night-rainbow.svg />
+
+<br>
+<br>
 
 <h3 align="center"> ⚡ SKILL ⚡ </h3>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -30,7 +35,7 @@
 <br>
 <br>
 <br>
-<br>
+
 <p align="center">
   <a href="https://solved.ac/sangw1104">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sangw1104">
