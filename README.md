@@ -32,6 +32,10 @@
 </p>
 
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 
 <a href="https://github.com/sw1104">
