@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=140&section=header&text=🇰🇷%20Sangwoo%20Lee%20🇰🇷&fontSize=70)
 
 <p align="center">
@@ -63,7 +61,7 @@ Sunday       65 commits     █████░░░░░░░░░░░░�
 <p align="center">
 <a href="https://solved.ac/sangw1104">
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=sangw1104">
-</a>
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp 
 <a href="https://solved.ac/sangw1104">
 <img src="http://mazandi.herokuapp.com/api?handle=sangw1104&theme=dark"/>
 </a>
