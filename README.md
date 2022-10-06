@@ -32,6 +32,7 @@
 </p>
 
 <br>
+<br>
 
 <!--START_SECTION:waka-->
 ```text
@@ -53,6 +54,7 @@ Sunday       65 commits     █████░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<br>
 <br>
 
 <a href="https://github.com/sw1104">
