@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=140&section=header&text=🇰🇷%20Sangwoo%20Lee%20🇰🇷&fontSize=70)
 
+<br>
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsw1104&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>&nbsp
   <a href="https://sw1104.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-E77918?style=flat-square&logo=GitHub&logoColor=white&link=https://sw1104.github.io"/></a>&nbsp
@@ -43,8 +45,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -54,7 +54,6 @@
 🌆 Daytime    144 commits    ██████████░░░░░░░░░░░░░░░   42.23% 
 🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   36.36% 
 🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.8%
-
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -66,12 +65,10 @@ Thursday     84 commits     ██████░░░░░░░░░░░�
 Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
 Saturday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
 Sunday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.89%
-
 ```
-
-
-
 <!--END_SECTION:waka-->
+
+<br>
 
 <p align="center">
   <a href="https://solved.ac/sangw1104">
