@@ -13,7 +13,7 @@
 
 ****
 
-<img align="left" width=400 src=./profile-3d-contrib/profile-night-rainbow.svg />
+<img align="left" width=450 src=./profile-3d-contrib/profile-night-rainbow.svg />
 
 <br>
 
