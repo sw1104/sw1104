@@ -4,6 +4,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsw1104&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>&nbsp
   <a href="https://sw1104.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-E77918?style=flat-square&logo=GitHub&logoColor=white&link=https://sw1104.github.io"/></a>&nbsp
   <a href="mailto:sangw1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sangw1104@gmail.com"/></a>&nbsp
+  <a href="https://solved.ac/sangw1104"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sangw1104"/></a>&nbsp
   <a href="https://wakatime.com/@5c1afe64-ab84-4e81-9e29-073a6f822c3c"><img src="https://wakatime.com/badge/user/5c1afe64-ab84-4e81-9e29-073a6f822c3c.svg" alt="Total time coded since Oct 5 2022" /></a>&nbsp
 </p>
 
