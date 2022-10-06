@@ -9,7 +9,7 @@
 
 ****
 
-<img align="left" width=500 src=./profile-3d-contrib/profile-night-rainbow.svg />
+<img align="left" width=490 src=./profile-3d-contrib/profile-night-rainbow.svg />
 
 <br>
 
@@ -32,9 +32,13 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ****
 
+<br>
+<br>
 <br>
 <br>
 
