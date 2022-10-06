@@ -41,7 +41,6 @@
 ****
 
 <br>
-<br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
