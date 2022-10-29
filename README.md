@@ -9,16 +9,15 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsw1104&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>&nbsp
 </p>
 
-<br>
+<!-- <br> -->
 
 ****
 
 <!-- <img align="left" width=470 src=./profile-3d-contrib/profile-night-rainbow.svg /> -->
 
-<br>
+<!-- <br> -->
 
-<h2 align="center"> ⚡ SKILL ⚡ </h2>
-
+<h1 align="center"> ⚡ SKILL ⚡ </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
@@ -30,11 +29,11 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
+<!-- <br> -->
 
 ****
 
-<br>
+<!-- <br> -->
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -51,7 +50,7 @@
 
 <!--END_SECTION:waka-->
 
-<br>
+<!-- <br> -->
 <br>
 
 <p align="center">
@@ -63,7 +62,7 @@
   </a>
 </p>
 
-<br>
+<!-- <br> -->
 <br>
 
 <a href="https://github.com/sw1104">
