@@ -13,7 +13,7 @@
 
 ****
 
-<img align="left" width=470 src=./profile-3d-contrib/profile-night-rainbow.svg />
+<!-- <img align="left" width=470 src=./profile-3d-contrib/profile-night-rainbow.svg /> -->
 
 <br>
 
@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ****
