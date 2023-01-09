@@ -57,6 +57,7 @@
 <!--END_SECTION:waka-->
 
 <!-- <br> -->
+<!-- 
 <br>
 
 <p align="center">
@@ -67,7 +68,7 @@
     <img src="http://mazandi.herokuapp.com/api?handle=sangw1104&theme=dark"/>
   </a>
 </p>
-
+ -->
 <!-- <br> -->
 <br>
 
